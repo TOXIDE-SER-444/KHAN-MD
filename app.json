@@ -8,19 +8,19 @@
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "IK~H4sIAAAAAAAAA5VU2Y6jOBT9lZFfK2ogQCCRSmpCqCyEJYGso3kwYBKHzbENCdWqfx9RS1c/9LRqeDLXvucen3uuf4CywgzZqAWjH4BQ3ECOuiVvCQIjMK7TFFHQAwnkEIyA7sa3ZbFR4r3g8bwIqvvOlbd8Kh9aI+RwcX+IPCpeyMPMeAQvPUDqKMfxHwC5sUFClrljYiZXdRuuT3LN/EPoLndXa9wqZ5W0z9F468mrR/DSIUJMcXmyyBkViMLcRq0PMf0a/diZtKdDfqgruPQ8Z/psN8f9Yhle/GTvZZunzUTD9loJ4/KL9AN3oI1vDbZntymxia9i7aqP98bdenKe7bAOEBWqhemc1/EbfYZPJUrmCSo55u2XdXfmrR/1d0mtrarJTg7rxrxOo/k1q4XTZj+dQzYm+5tQOVPna8TjbeRx9jyPhqqN5XUgS6jv+LasbowL3Ah55EsDfzOeMdH4lbhPP7yS/R/dFd8qdL+WOJvZheSphVYZTp8LWbMtGnswHiJ+N/2bO+x/Ufen3bKQKi5Sq5kZdWY+PfGklW5iejSVUnvw2jhwl2QsJ4X1SR/ymv6JpddOlvnOmevWREnXiSF7JLtGylXSowJfNmbW14+2XNSLWcK96Lo3UvUSwrs9U9BBN+Bxul1L991VavSYXzFVuNrC0+rx9UYZaucJGEkvPUDRCTNOIcdV+RoTBz0AkyZAMUX8VV6Q8GorpYOVxY45ZkTnF3wluUSWz/Zamh2uxsJYJVoUCbbzCHqA0CpGjKFkhhmvaOsgxuAJMTD6+58eKNGdvzWuK6dLcg+kmDK+KWuSVzD5aOvPXRjHVV3yoC1js1sgCkbiZxhxjssT65SsS0jjM26QeYacgVEKc4Z+3hFRlLzHfmZ3WQniEOcMjIA59279YWVaS9vSHDadGtbJME8G+Kz20bg3YS5DRzHzRbvJ1CGpaN5qzw0N1HoVuG47TasH4TJR9Io9FPHjb0DACKxm92nrqNG8YGYowZvqBLTRb0fNn+HmtJPDMZcGomW7T+6SBZ4b1AKMdnBrpZFueKZ0lwRjKy3O8cHnbY2bPDVn5u2xq5agBsfo12JPpZvVE0ELK3N6kmpypMt8Vm2FXQgDq8ywsK8dVEiro8HFNcvCI1qrzbSG4o5f9ygg2xaNsd3f5q6p5d66Nlf3Db69Wap49TJOwAgMJb2vD4cDWVSUkfSdfbt17YCEfCsRBz1Qwu4wCNsc0b+SmiaoBD2Qv+bq4lDShqIqi5La10fS9y78MTH5+0uFX73UVet+U4xeB/8d9rcIH2p0phJfer9kvj8g/zGE44MQegYJ4nzhpRDaalzr2kCso8y6hPG5HPiNcnvw7aVPSvDy8k8PkBzytKIFGAFWRBD0AK3qzqHzMq3+UMkcz+eT1cnsLptDxo1P14e4QIzDgoCRpA2Gg8FQ0pS3Uz6tyAyycwegpAsX9EDRGoQEHPKPIQJG902TAXj5FwN257thBwAA",
       "required": true,
       "value": ""
     },  
     
     "STICKER_NAME": {
-      "description": "type your sticker pack name.",
+      "description": "akshayorwot",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "Hahaha"
     }, 
       
     "PREFIX": {
-      "description": "paste your bot prefix note! Don't apply null prefix.",
+      "description": ".",
       "required": false,
       "value": "."
     },
@@ -119,13 +119,13 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Jᴀᴡᴀᴅ TᴇᴄʜX"
+      "value": "akshayorwot"
     }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923427582273"
+      "value": "9048329892"
     }, 
 
     "BOT_NAME": {
@@ -161,7 +161,7 @@
     "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX*"
+      "value": "𝘗𝘰𝘸𝘦𝘳𝘦𝘥 𝘣𝘺 𝘢𝘬𝘴𝘩𝘢𝘺𝘰𝘳𝘸𝘰𝘵 ©"
     },
      
     "AUTO_REACT": {
